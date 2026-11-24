@@ -1,5 +1,6 @@
 College Event: Annual Technical Festival
-Date: 15 September 2026   - Updated main
+Date: 15 September 2026 - Updated in main
+Date: 15 October 2026 -Updated in feature
 Venue: Main Auditorium
 Coordinator: IT Department
 	
